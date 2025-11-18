@@ -1,8 +1,13 @@
-<p align="center">
-  <img alt="Cute girl coding" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="220"/>
-  <br>
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" 
+    height="220"
+    style="border-radius:12px;"
+    alt="Cute girl coding"
+  />
+  <br><br>
   <strong>Hi — I'm Munira 👩‍💻</strong>
-</p>
+</div>
 
 ###
 <div align="center">
@@ -52,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=munira0111&"  />
 </div>
 
 ###
@@ -91,7 +96,26 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=munira0111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <h2>🚀 GitHub Stats</h2>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=munira0111theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" height="180"/>
+
+  <!-- Profile Summary -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=munira0111&show_icons=true&theme=dark&count_private=true&hide=prs,issues" alt="GitHub Stats" />
+  </p>
+
+  <!-- Languages Used -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munira0111&layout=compact&theme=dark" alt="Top Languages" />
+  </p>
+
+  <!-- Total Contributions Calendar -->
+  <p>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=munira0111&theme=react-dark" alt="Activity Graph" />
+  </p>
 </div>
+
 
 ###
