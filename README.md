@@ -40,7 +40,7 @@
 
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="left">
-  <!-- Replace Python with cute coding girl -->
+  <!-- Cute coding girl instead of Python -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="40" alt="Cute coding girl"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
