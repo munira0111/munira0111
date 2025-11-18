@@ -9,97 +9,53 @@
   <strong>Hi — I'm Munira 👩‍💻</strong>
 </div>
 
-###
 <div align="center">
-  <!-- Existing badges -->
-  <a href="https://www.linkedin.com/in/munira-khondoker-3b974236b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-         height="25" alt="LinkedIn" />
-
-
-  
-    
-  
-
-
-
-  <!-- New badges -->
-  <a href="https://www.instagram.com/munirakhondoker/?hl=en" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-         height="25" alt="Instagram" />
+  <!-- Badges -->
+  <a href="https://www.linkedin.com/in/munira-khondoker-3b974236b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-
-  <!-- WhatsApp: replace PHONE_WITH_COUNTRY_CODE with e.g. 8801XXXXXXXXX (no +, no spaces) -->
-  <a href="https://wa.me/+880 1876-541001" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
-         height="25" alt="WhatsApp" />
+  <a href="https://www.instagram.com/munirakhondoker/?hl=en" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Munira_019" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge"
-         height="25" alt="Codeforces" />
+  <a href="https://wa.me/+8801876541001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-
-  <!-- Discord: two common options explained below -->
-  <!-- Option A: link to a Discord invite (common if you have a server) -->
-  <a href="https://discord.gg/munira_019" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge"
-         height="25" alt="Discord (invite)" />
+  <a href="https://codeforces.com/profile/Munira_019" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-
-  <!-- Option B (profile link): if you prefer linking to your user profile, use this format:
-       https://discordapp.com/users/YOUR_USER_ID  (some browsers may prompt to open the Discord app)
-       Uncomment and use instead of Option A if you have the numeric user ID. -->
+  <a href="https://discord.gg/munira_019" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
 </div>
 
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=munira0111&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=munira0111" />
 </div>
 
-###
+<h3 align="left">👩‍💻 About Me</h3>
+<p align="left">I'm Munira Khondoker from GSTU <br>
+- 🔭 I’m working as a CS Student <br>
+- ⚡ In my free time I like to watch dramas
+</p>
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Munira Khondoker from GSTU <br><br>- 🔭 I’m working as CS Student <br>- ⚡ In my free time I like to watch dramas</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<h3 align="left">🛠 Languages & Tools</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <!-- Replace Python with cute coding girl -->
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="40" alt="Cute coding girl"/>
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
 
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<h3 align="left">🔥 My Stats</h3>
 <div align="center">
   <h2>🚀 GitHub Stats</h2>
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=munira0111theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=munira0111&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" height="180"/>
 
   <!-- Profile Summary -->
   <p>
@@ -116,6 +72,3 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=munira0111&theme=react-dark" alt="Activity Graph" />
   </p>
 </div>
-
-
-###
