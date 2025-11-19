@@ -2,19 +2,7 @@
   <strong>Hi — I'm Munira 👩‍💻</strong>
 </div>
 
-<style>
-  .social-icon {
-    margin: 15px;
-    padding: 10px;
-    background: #f0f0f0;
-    border-radius: 50%;
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
-  }
-  .social-icon:hover {
-    transform: scale(1.20);
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  }
-</style>
+
 
 <div align="center" style="margin-top: 10px;">
 
