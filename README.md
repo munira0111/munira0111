@@ -1,11 +1,4 @@
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" 
-    height="220"
-    style="border-radius:12px;"
-    alt="Cute girl coding"
-  />
-  <br><br>
+
   <strong>Hi — I'm Munira 👩‍💻</strong>
 </div>
 
