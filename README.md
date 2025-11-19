@@ -5,10 +5,14 @@
 <style>
   .social-icon {
     margin: 15px;
-    transition: transform 0.25s ease;
+    padding: 10px;
+    background: #f0f0f0;
+    border-radius: 50%;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
   }
   .social-icon:hover {
-    transform: scale(1.25);
+    transform: scale(1.20);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
   }
 </style>
 
@@ -16,51 +20,48 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/munira-khondoker-3b974236b/" target="_blank">
-    <img class="social-icon" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    <img class="social-icon"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          height="40" alt="LinkedIn"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/munirakhondoker/?hl=en" target="_blank">
-    <img class="social-icon" 
-         src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
-         height="40" style="border-radius: 10px;" alt="Instagram"/>
+    <img class="social-icon"
+         src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
+         height="40" alt="Instagram"/>
   </a>
 
   <!-- Facebook -->
   <a href="https://facebook.com" target="_blank">
-    <img class="social-icon" 
-         src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+    <img class="social-icon"
+         src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
          height="40" alt="Facebook"/>
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/+8801876541001" target="_blank">
-    <img class="social-icon" 
-         src="https://cdn-icons-png.flaticon.com/512/733/733585.png" 
+    <img class="social-icon"
+         src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
          height="40" alt="WhatsApp"/>
   </a>
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Munira_019" target="_blank">
-    <img class="social-icon" 
-         src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
+    <img class="social-icon"
+         src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
          height="40" alt="Codeforces"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.gg/munira_019" target="_blank">
-    <img class="social-icon" 
-         src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" 
+    <img class="social-icon"
+         src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"
          height="40" alt="Discord"/>
   </a>
 
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=munira0111" />
-</div>
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">I'm Munira Khondoker from GSTU <br>
