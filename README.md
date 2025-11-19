@@ -2,42 +2,58 @@
   <strong>Hi — I'm Munira 👩‍💻</strong>
 </div>
 
+<style>
+  .social-icon {
+    margin: 15px;
+    transition: transform 0.25s ease;
+  }
+  .social-icon:hover {
+    transform: scale(1.25);
+  }
+</style>
+
 <div align="center" style="margin-top: 10px;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/munira-khondoker-3b974236b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         height="35" style="margin: 6px;" alt="LinkedIn"/>
+    <img class="social-icon" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         height="40" alt="LinkedIn"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/munirakhondoker/?hl=en" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
-         height="35" style="margin: 6px; border-radius: 8px;" alt="Instagram"/>
+    <img class="social-icon" 
+         src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
+         height="40" style="border-radius: 10px;" alt="Instagram"/>
   </a>
 
   <!-- Facebook -->
   <a href="https://facebook.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-         height="35" style="margin: 6px;" alt="Facebook"/>
+    <img class="social-icon" 
+         src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+         height="40" alt="Facebook"/>
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/+8801876541001" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" 
-         height="35" style="margin: 6px;" alt="WhatsApp"/>
+    <img class="social-icon" 
+         src="https://cdn-icons-png.flaticon.com/512/733/733585.png" 
+         height="40" alt="WhatsApp"/>
   </a>
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Munira_019" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
-         height="35" style="margin: 6px;" alt="Codeforces"/>
+    <img class="social-icon" 
+         src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
+         height="40" alt="Codeforces"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.gg/munira_019" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" 
-         height="35" style="margin: 6px;" alt="Discord"/>
+    <img class="social-icon" 
+         src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" 
+         height="40" alt="Discord"/>
   </a>
 
 </div>
